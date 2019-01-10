@@ -1,0 +1,999 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef1"
+            },
+            "Name": "Virginia Form VA-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef1",
+            "Docusign_Template_Id__c": "fd079663-74a3-4ee7-9a0f-4de7af5d808d",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef2"
+            },
+            "Name": "PA Act 32 Form",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef2",
+            "Docusign_Template_Id__c": "1ba9debe-9433-47be-8df2-cc1938c7bf8b",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef3"
+            },
+            "Name": "2019 Oxford New Hire Package",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef3",
+            "Docusign_Template_Id__c": "5be76a50-1191-4f54-a453-27d058e9d3a4",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef4"
+            },
+            "Name": "CA Meal and Rest Break Policy",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef4",
+            "Docusign_Template_Id__c": "464dc214-4af8-4cf3-9d84-5f2212588cc2",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef5"
+            },
+            "Name": "North Carolina Form NC-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef5",
+            "Docusign_Template_Id__c": "4055cd48-880f-40b2-9722-66c45ec6631a",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef6"
+            },
+            "Name": "Alabama Form A-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef6",
+            "Docusign_Template_Id__c": "163b8d98-ecb7-4809-a43f-8b1ebda9d2b3",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef7"
+            },
+            "Name": "Louisiana Form L-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef7",
+            "Docusign_Template_Id__c": "7b2a9927-7c5d-4529-8c0a-208b462b9bd5",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef8"
+            },
+            "Name": "Maine Form W-4ME",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef8",
+            "Docusign_Template_Id__c": "878ff215-05f5-433d-93f3-e6a91cbf8f8b",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef9"
+            },
+            "Name": "MA M-4 Form",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef9",
+            "Docusign_Template_Id__c": "18d12da3-a278-459a-804f-4bf39a9ea50d",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef10"
+            },
+            "Name": "Georgia Form G-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef10",
+            "Docusign_Template_Id__c": "48da90f7-a89a-4a0e-8aeb-c20c9ee7974b",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef11"
+            },
+            "Name": "Indiana Form WH-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef11",
+            "Docusign_Template_Id__c": "3e0b1d6b-5a2e-409c-a6a6-d56fbea6df80",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef12"
+            },
+            "Name": "2019 Form OR W4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef12",
+            "Docusign_Template_Id__c": "7724d6c8-d371-4770-b058-d4fd4a53aac4",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef13"
+            },
+            "Name": "Maryland Form MW 507",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef13",
+            "Docusign_Template_Id__c": "0e108c7b-2f8c-4fc7-851b-ffa1416528e0",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef14"
+            },
+            "Name": "Michigan Form MI-W4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef14",
+            "Docusign_Template_Id__c": "ad4a0eca-405f-4818-bbdc-f20dc239af2d",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef15"
+            },
+            "Name": "New Jersey Form NJ-W4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef15",
+            "Docusign_Template_Id__c": "cf35c37b-7c45-49c7-a61f-01e9aeaac177",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef16"
+            },
+            "Name": "2019 Oxford New Hire Package",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef16",
+            "Docusign_Template_Id__c": "5be76a50-1191-4f54-a453-27d058e9d3a4",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef17"
+            },
+            "Name": "2018 CT W4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef17",
+            "Docusign_Template_Id__c": "13fa7e2d-e079-41da-a237-090e2320672e",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef18"
+            },
+            "Name": "Hawaii Form HW-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef18",
+            "Docusign_Template_Id__c": "facb84bc-423e-4b09-b39e-7c6a85532bb7",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef19"
+            },
+            "Name": "Missouri Form MO W-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef19",
+            "Docusign_Template_Id__c": "f9240384-0d08-4e0d-9793-ac74e98794dd",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef20"
+            },
+            "Name": "NY Supplement to Anti-Harassment and Discrimination Policy",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef20",
+            "Docusign_Template_Id__c": "59c1cf65-fb4f-41df-968e-94e9a8e7c31f",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef21"
+            },
+            "Name": "New York Form IT-2104",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef20",
+            "Docusign_Template_Id__c": "b6b87828-9207-4c29-915d-c4343dfdae59",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef22"
+            },
+            "Name": "Wisconsin Form WT-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef21",
+            "Docusign_Template_Id__c": "f7a9408c-ca86-4ddf-9e33-a855be231e65",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef23"
+            },
+            "Name": "Form OK-W-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef22",
+            "Docusign_Template_Id__c": "10325433-c0d6-4ccc-9221-3103d43a4a62",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef24"
+            },
+            "Name": "Arizona Form A-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef23",
+            "Docusign_Template_Id__c": "275e2861-04de-4746-8ec7-a150a1f8cdd9",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef25"
+            },
+            "Name": "Iowa Form IA W-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef24",
+            "Docusign_Template_Id__c": "bd258287-3591-40f8-b88d-16cea75eb6e6",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef26"
+            },
+            "Name": "WV Form IT-104",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef25",
+            "Docusign_Template_Id__c": "aadf8e7f-9d06-4796-91d5-0d8ca3d63940",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef27"
+            },
+            "Name": "2019 Oxford Rehire Package",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef26",
+            "Docusign_Template_Id__c": "76b56a3b-334d-4f4f-94cb-2ed7af00fde0",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef28"
+            },
+            "Name": "Kentucky Form K-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef27",
+            "Docusign_Template_Id__c": "4e8e60c9-be30-455d-a34f-41217536b1ed",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef29"
+            },
+            "Name": "Ohio Form IT-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef28",
+            "Docusign_Template_Id__c": "6bb73f83-50ab-459e-a2d3-36711430b202",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef30"
+            },
+            "Name": "Arkansas Form AR4EC",
+            "Compliance_Template__c": "@Compliance_Template__cRef29",
+            "Docusign_Template_Id__c": "f8404827-01a6-4f9c-b9fc-113a8c74925b",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef31"
+            },
+            "Name": "DC Form D-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef30",
+            "Docusign_Template_Id__c": "a3202729-a713-49a6-bd84-0ad563ee1936",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef32"
+            },
+            "Name": "Illinois Form W-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef31",
+            "Docusign_Template_Id__c": "a56e310d-1a67-45a5-b1b0-81e5a55e94bc",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef33"
+            },
+            "Name": "Mississippi Form 89-350",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef32",
+            "Docusign_Template_Id__c": "4f0d4fa5-d2eb-44e5-95df-da87eab84b13",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef34"
+            },
+            "Name": "2019 Oxford Rehire Package",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef33",
+            "Docusign_Template_Id__c": "76b56a3b-334d-4f4f-94cb-2ed7af00fde0",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef35"
+            },
+            "Name": "HIM TEST Docusign",
+            "Category__c": "Personal Information",
+            "Compliance_Template__c": "@Compliance_Template__cRef34",
+            "Docusign_Template_Id__c": "5be76a50-1191-4f54-a453-27d058e9d3a4",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef36"
+            },
+            "Name": "HIM TEST Upload",
+            "Category__c": "Certifications",
+            "Compliance_Template__c": "@Compliance_Template__cRef34",
+            "Has_Expiration__c": true,
+            "Has_Pii__c": false,
+            "Regional__c": true
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef37"
+            },
+            "Name": "HIM TEST Docusign",
+            "Category__c": "Miscellaneous Documents",
+            "Compliance_Template__c": "@Compliance_Template__cRef35",
+            "Docusign_Template_Id__c": "704b0eb4-dfc1-4b0e-8627-0280b789eed1",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef38"
+            },
+            "Name": "HIM TEST Upload",
+            "Age_Expiration__c": 12,
+            "Category__c": "Miscellaneous Documents",
+            "Compliance_Template__c": "@Compliance_Template__cRef35",
+            "Has_Expiration__c": true,
+            "Has_Pii__c": false,
+            "Regional__c": true
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef39"
+            },
+            "Name": "Maryland Form MW 507",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef36",
+            "Docusign_Template_Id__c": "0e108c7b-2f8c-4fc7-851b-ffa1416528e0",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef40"
+            },
+            "Name": "Iowa Form IA W-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef37",
+            "Docusign_Template_Id__c": "bd258287-3591-40f8-b88d-16cea75eb6e6",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef41"
+            },
+            "Name": "New Jersey Form NJ-W4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef38",
+            "Docusign_Template_Id__c": "cf35c37b-7c45-49c7-a61f-01e9aeaac177",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef42"
+            },
+            "Name": "Arkansas Form AR4EC",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef39",
+            "Docusign_Template_Id__c": "f8404827-01a6-4f9c-b9fc-113a8c74925b",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef43"
+            },
+            "Name": "Virginia Form VA-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef40",
+            "Docusign_Template_Id__c": "fd079663-74a3-4ee7-9a0f-4de7af5d808d",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef44"
+            },
+            "Name": "Georgia Form G-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef41",
+            "Docusign_Template_Id__c": "48da90f7-a89a-4a0e-8aeb-c20c9ee7974b",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef45"
+            },
+            "Name": "Maine Form W-4ME",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef42",
+            "Docusign_Template_Id__c": "878ff215-05f5-433d-93f3-e6a91cbf8f8b",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef46"
+            },
+            "Name": "Illinois Form W-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef43",
+            "Docusign_Template_Id__c": "a56e310d-1a67-45a5-b1b0-81e5a55e94bc",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef47"
+            },
+            "Name": "Arizona Form A-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef44",
+            "Docusign_Template_Id__c": "275e2861-04de-4746-8ec7-a150a1f8cdd9",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef48"
+            },
+            "Name": "North Carolina Form NC-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef45",
+            "Docusign_Template_Id__c": "4055cd48-880f-40b2-9722-66c45ec6631a",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef49"
+            },
+            "Name": "WV Form IT-104",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef46",
+            "Docusign_Template_Id__c": "aadf8e7f-9d06-4796-91d5-0d8ca3d63940",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef50"
+            },
+            "Name": "Louisiana Form L-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef47",
+            "Docusign_Template_Id__c": "7b2a9927-7c5d-4529-8c0a-208b462b9bd5",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef51"
+            },
+            "Name": "2019 Oxford New Hire Package",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef48",
+            "Docusign_Template_Id__c": "5be76a50-1191-4f54-a453-27d058e9d3a4",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef52"
+            },
+            "Name": "Wisconsin Form WT-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef49",
+            "Docusign_Template_Id__c": "f7a9408c-ca86-4ddf-9e33-a855be231e65",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef53"
+            },
+            "Name": "New York Form IT-2104",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef50",
+            "Docusign_Template_Id__c": "b6b87828-9207-4c29-915d-c4343dfdae59",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef54"
+            },
+            "Name": "NY Supplement to Anti-Harassment and Discrimination Policy",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef50",
+            "Docusign_Template_Id__c": "59c1cf65-fb4f-41df-968e-94e9a8e7c31f",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef55"
+            },
+            "Name": "Form OK-W-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef51",
+            "Docusign_Template_Id__c": "10325433-c0d6-4ccc-9221-3103d43a4a62",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef56"
+            },
+            "Name": "Mississippi Form 89-350",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef52",
+            "Docusign_Template_Id__c": "4f0d4fa5-d2eb-44e5-95df-da87eab84b13",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef57"
+            },
+            "Name": "PA Act 32 Form",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef53",
+            "Docusign_Template_Id__c": "1ba9debe-9433-47be-8df2-cc1938c7bf8b",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef58"
+            },
+            "Name": "Hawaii Form HW-4",
+            "Compliance_Template__c": "@Compliance_Template__cRef54",
+            "Docusign_Template_Id__c": "facb84bc-423e-4b09-b39e-7c6a85532bb7",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef59"
+            },
+            "Name": "CA Meal and Rest Break Policy",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef55",
+            "Docusign_Template_Id__c": "464dc214-4af8-4cf3-9d84-5f2212588cc2",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef60"
+            },
+            "Name": "DC Form D-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef56",
+            "Docusign_Template_Id__c": "a3202729-a713-49a6-bd84-0ad563ee1936",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef61"
+            },
+            "Name": "Indiana Form WH-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef57",
+            "Docusign_Template_Id__c": "3e0b1d6b-5a2e-409c-a6a6-d56fbea6df80",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef62"
+            },
+            "Name": "Kentucky Form K-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef58",
+            "Docusign_Template_Id__c": "4e8e60c9-be30-455d-a34f-41217536b1ed",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef63"
+            },
+            "Name": "Michigan Form MI-W4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef59",
+            "Docusign_Template_Id__c": "ad4a0eca-405f-4818-bbdc-f20dc239af2d",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef64"
+            },
+            "Name": "2019 Form OR W4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef60",
+            "Docusign_Template_Id__c": "7724d6c8-d371-4770-b058-d4fd4a53aac4",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef65"
+            },
+            "Name": "Missouri Form MO W-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef61",
+            "Docusign_Template_Id__c": "f9240384-0d08-4e0d-9793-ac74e98794dd",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef66"
+            },
+            "Name": "Ohio Form IT-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef62",
+            "Docusign_Template_Id__c": "6bb73f83-50ab-459e-a2d3-36711430b202",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef67"
+            },
+            "Name": "2018 Form I-9",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef63",
+            "Docusign_Template_Id__c": "3a661ac6-e29d-45b7-b772-7ca6f4da91a6",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef68"
+            },
+            "Name": "2019 Oxford Rehire Package",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef64",
+            "Docusign_Template_Id__c": "76b56a3b-334d-4f4f-94cb-2ed7af00fde0",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef69"
+            },
+            "Name": "Alabama Form A-4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef65",
+            "Docusign_Template_Id__c": "163b8d98-ecb7-4809-a43f-8b1ebda9d2b3",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef70"
+            },
+            "Name": "MA M-4 Form",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef66",
+            "Docusign_Template_Id__c": "18d12da3-a278-459a-804f-4bf39a9ea50d",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef71"
+            },
+            "Name": "2018 CT W4",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef67",
+            "Docusign_Template_Id__c": "13fa7e2d-e079-41da-a237-090e2320672e",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef72"
+            },
+            "Name": "NY State 2018 Oxford New Hire Packet without I9",
+            "Category__c": "Certifications",
+            "Compliance_Template__c": "@Compliance_Template__cRef69",
+            "Docusign_Template_Id__c": "ddf0fa60-3b60-406c-a499-246eed0b3f63",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef73"
+            },
+            "Name": "Not-So-Important Job Document",
+            "Category__c": "Personal Information",
+            "Compliance_Template__c": "@Compliance_Template__cRef69",
+            "Has_Expiration__c": true,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef74"
+            },
+            "Name": "TEST WRITEBACK",
+            "Category__c": "Certifications",
+            "Compliance_Template__c": "@Compliance_Template__cRef69",
+            "Docusign_Template_Id__c": "a18facd9-296c-466d-9ae6-fa68d21a9cf1",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef75"
+            },
+            "Name": "Oct 2018 no i9 TG Shawn Test",
+            "Category__c": "Personal Information",
+            "Compliance_Template__c": "@Compliance_Template__cRef69",
+            "Docusign_Template_Id__c": "704b0eb4-dfc1-4b0e-8627-0280b789eed1",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef76"
+            },
+            "Name": "I9 Form",
+            "Compliance_Template__c": "@Compliance_Template__cRef70",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        },
+        {
+            "attributes": {
+                "type": "Document_Type__c",
+                "referenceId": "Document_Type__cRef77"
+            },
+            "Name": "Test 1.8.19",
+            "Category__c": "Onboarding Paperwork",
+            "Compliance_Template__c": "@Compliance_Template__cRef70",
+            "Docusign_Template_Id__c": "264ed0d4-640c-4195-803e-ad6ccf5f087b",
+            "Has_Expiration__c": false,
+            "Has_Pii__c": false,
+            "Regional__c": false
+        }
+    ]
+}

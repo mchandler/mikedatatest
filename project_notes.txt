@@ -1,0 +1,33 @@
+sfdx force:data:tree:export -q ./soql/TEXTFILE -u OrgAlias -p -d ./data
+
+There is a limitation to this tool in that it is unable to properly reference Record Types on objects that use them.
+SELECT Id, Name, Account__c, Job_Title__c, RecordTypeId FROM Compliance_Template__c
+
+https://salesforce.stackexchange.com/questions/199365/sfdx-how-to-export-data-with-record-types-to-put-in-a-scratch-qa-org?noredirect=1&lq=1
+
+SELECT Id, Name, Account__c, Job_Title__c FROM Compliance_Template__c
+Removing the RecordTypeId from the query eliminates the Record Type error, but now the Account cannot be reconciled.
+
+Since none of the compliance templates in Sandbox will actually reference an Account, eliminating it is ok.
+SELECT Id, Name, Job_Title__c FROM Compliance_Template__c
+
+Document Type:
+SELECT Id, Name, Age_Expiration__c, Category__c, Compliance_Template__c, Docusign_Template_Id__c, Has_Expiration__c, Has_Pii__c, Regional__c FROM Document_Type__c
+
+Object relationships must be kept in tact, so the compliance template export will be adjusted as follows:
+
+SELECT Id, Name, Job_Title__c,
+(SELECT Id, Name, Age_Expiration__c, Category__c, Compliance_Template__c,
+Docusign_Template_Id__c, Has_Expiration__c, Has_Pii__c, Regional__c
+FROM Document_Types__r)
+FROM Compliance_Template__c
+
+This will export both the compliance templates and their associated document types.
+
+This final SOQL query appears to produce import files that account for the relationship between the two objects and provides an import path that works.
+
+To import:
+
+sfdx force:data:tree:import -p ./data/path-to-plan-file.json -u OrgAlias
+
+The only potential obstacle here is related to field level security. You will encounter an error if you attempt to import data into a field that is not accessible to you. Check field level security if you get a "No such column" error.

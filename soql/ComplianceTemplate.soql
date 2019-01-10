@@ -1,0 +1,5 @@
+SELECT Id, Name, Job_Title__c,
+(SELECT Id, Name, Age_Expiration__c, Category__c, Compliance_Template__c,
+Docusign_Template_Id__c, Has_Expiration__c, Has_Pii__c, Regional__c
+FROM Document_Types__r)
+FROM Compliance_Template__c

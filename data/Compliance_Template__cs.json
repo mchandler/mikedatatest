@@ -1,0 +1,505 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef1"
+            },
+            "Name": "Re-Hire W2 Virginia"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef2"
+            },
+            "Name": "Re-Hire W2 Pennsylvania"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef3"
+            },
+            "Name": "New Hire W2 USA Consultant Canada Worksite"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef4"
+            },
+            "Name": "Re-Hire W2 California"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef5"
+            },
+            "Name": "Re-Hire W2 North Carolina"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef6"
+            },
+            "Name": "Re-Hire W2 Alabama"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef7"
+            },
+            "Name": "Re-Hire W2 Louisiana"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef8"
+            },
+            "Name": "Re-Hire W2 Maine"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef9"
+            },
+            "Name": "Re-Hire W2 Massachusetts"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef10"
+            },
+            "Name": "Re-Hire W2 Georgia"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef11"
+            },
+            "Name": "Re-Hire W2 Indiana"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef12"
+            },
+            "Name": "Re-Hire W2 Oregon"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef13"
+            },
+            "Name": "Re-Hire W2 Maryland"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef14"
+            },
+            "Name": "Re-Hire W2 Michigan"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef15"
+            },
+            "Name": "Re-Hire W2 New Jersey"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef16"
+            },
+            "Name": "New Hire W2 Canada Consultant USA Worksite"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef17"
+            },
+            "Name": "Re-Hire W2 Connecticut"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef18"
+            },
+            "Name": "Re-Hire W2 Hawaii"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef19"
+            },
+            "Name": "Re-Hire W2 Missouri"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef20"
+            },
+            "Name": "Re-Hire W2 New York"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef21"
+            },
+            "Name": "Re-Hire W2 Wisconsin"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef22"
+            },
+            "Name": "Re-Hire W2 Oklahoma"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef23"
+            },
+            "Name": "Re-Hire W2 Arizona"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef24"
+            },
+            "Name": "Re-Hire W2 Iowa"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef25"
+            },
+            "Name": "Re-Hire W2 West Virginia"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef26"
+            },
+            "Name": "Re-Hire W2 Canada Consultant USA Worksite"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef27"
+            },
+            "Name": "Re-Hire W2 Kentucky"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef28"
+            },
+            "Name": "Re-Hire W2 Ohio"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef29"
+            },
+            "Name": "Re-Hire W2 Arkansas"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef30"
+            },
+            "Name": "Re-Hire W2 District of Columbia"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef31"
+            },
+            "Name": "Re-Hire W2 Illinois"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef32"
+            },
+            "Name": "Re-Hire W2 Mississippi"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef33"
+            },
+            "Name": "Re-Hire W2 USA Consultant Canada Worksite"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef34"
+            },
+            "Name": "New Hire W2",
+            "Job_Title__c": "Senior Consultant"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef35"
+            },
+            "Name": "W2 Canada Consultant",
+            "Job_Title__c": "Senior Consultant"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef36"
+            },
+            "Name": "New Hire W2 Maryland"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef37"
+            },
+            "Name": "New Hire W2 Iowa"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef38"
+            },
+            "Name": "New Hire W2 New Jersey"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef39"
+            },
+            "Name": "New Hire W2 Arkansas"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef40"
+            },
+            "Name": "New Hire W2 Virginia"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef41"
+            },
+            "Name": "New Hire W2 Georgia"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef42"
+            },
+            "Name": "New Hire W2 Maine"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef43"
+            },
+            "Name": "New Hire W2 Illinois"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef44"
+            },
+            "Name": "New Hire W2 Arizona"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef45"
+            },
+            "Name": "New Hire W2 North Carolina"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef46"
+            },
+            "Name": "New Hire W2 West Virginia"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef47"
+            },
+            "Name": "New Hire W2 Louisiana"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef48"
+            },
+            "Name": "New Hire W2"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef49"
+            },
+            "Name": "New Hire W2 Wisconsin"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef50"
+            },
+            "Name": "New Hire W2 New York"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef51"
+            },
+            "Name": "New Hire W2 Oklahoma"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef52"
+            },
+            "Name": "New Hire W2 Mississippi"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef53"
+            },
+            "Name": "New Hire W2 Pennsylvania"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef54"
+            },
+            "Name": "New Hire W2 Hawaii"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef55"
+            },
+            "Name": "New Hire W2 California"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef56"
+            },
+            "Name": "New Hire W2 District of Columbia"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef57"
+            },
+            "Name": "New Hire W2 Indiana"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef58"
+            },
+            "Name": "New Hire W2 Kentucky"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef59"
+            },
+            "Name": "New Hire W2 Michigan"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef60"
+            },
+            "Name": "New Hire W2 Oregon"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef61"
+            },
+            "Name": "New Hire W2 Missouri"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef62"
+            },
+            "Name": "New Hire W2 Ohio"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef63"
+            },
+            "Name": "2018 Form I-9"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef64"
+            },
+            "Name": "Re-Hire W2"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef65"
+            },
+            "Name": "New Hire W2 Alabama"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef66"
+            },
+            "Name": "New Hire W2 Massachusetts"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef67"
+            },
+            "Name": "New Hire W2 Connecticut"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef68"
+            },
+            "Name": "Re-Hire W2 Wisconsin"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef69"
+            },
+            "Name": "Java Developer",
+            "Job_Title__c": "Java Developer"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef70"
+            },
+            "Name": "I9 Form"
+        },
+        {
+            "attributes": {
+                "type": "Compliance_Template__c",
+                "referenceId": "Compliance_Template__cRef71"
+            },
+            "Name": "ColdFusion Developer",
+            "Job_Title__c": "ColdFusion Developer"
+        }
+    ]
+}

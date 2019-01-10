@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Compliance_Template__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Compliance_Template__cs.json"
+        ]
+    },
+    {
+        "sobject": "Document_Type__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Document_Type__cs.json"
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+{
+    "orgName": "ASGN Data Import Test",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}

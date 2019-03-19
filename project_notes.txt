@@ -31,3 +31,16 @@ To import:
 sfdx force:data:tree:import -p ./data/path-to-plan-file.json -u OrgAlias
 
 The only potential obstacle here is related to field level security. You will encounter an error if you attempt to import data into a field that is not accessible to you. Check field level security if you get a "No such column" error.
+
+ADDED NOTE FOR APPLYING "Additional Documents" RECORD TYPE ID TO IMPORTED COMPLIANCE TEMPLATES:
+
+Id rId = Schema.SObjectType.Compliance_Template__c.getRecordTypeInfosByDeveloperName().get('Additional_Documents').getRecordTypeId();
+List<Compliance_Template__c> updTemplates = new List<Compliance_Template__c>();
+
+for (Compliance_Template__c t : [SELECT Id, RecordTypeId FROM Compliance_Template__c]) {
+	t.RecordTypeId = rId;
+	updTemplates.add(t);    
+}
+
+System.debug(updTemplates.size() + ' records to update...');
+update updTemplates;
